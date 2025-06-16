@@ -1,0 +1,21 @@
+ chcp 65001
+ echo Иванов > spisok.txt
+ echo Петров >> spisok.txt
+ echo Абрамов >> spisok.txt
+ type spisok.txt
+ sort spisok.txt > sorted_spisok.txt
+ type sorted_spisok.txt
+ help dir > spravka.txt
+ help copy >> spravka.txt
+ help xcopy >> spravka.txt
+ type spravka.txt
+ dir %windir% /A:-D /O:S > result.txt
+ type result.txt
+ mkdir C:\WinGrafika
+ xcopy %windir%\*.bmp C:\WinGrafika /S /I
+ dir C:\WinEx
+ dir C:\WinGrafika
+ mkdir C:\WinEx
+xcopy %windir%\*.exe C:\WinEx /S /I
+dir C:\WinEx
+ doskey/history > history.txt

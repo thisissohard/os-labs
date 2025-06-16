@@ -1,0 +1,35 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 9CC4-81F1
+
+ Directory of C:\Windows
+
+31.12.2021  02:21                 0 setuperr.log
+31.12.2021  02:24                10 csup.txt
+07.12.2019  12:12                92 win.ini
+07.12.2019  12:12               219 system.ini
+10.06.2025  00:06               276 WindowsUpdate.log
+07.12.2019  12:09               670 WindowsShell.Manifest
+07.01.2022  14:36             1 290 comsetup.log
+19.11.2020  10:30             1 380 lsasetup.log
+30.12.2022  22:06            10 411 DirectX.log
+16.02.2025  22:03            11 012 DtcInstall.log
+07.12.2019  00:29            11 264 write.exe
+07.12.2019  12:10            11 776 winhlp32.exe
+07.12.2019  12:09            18 432 hh.exe
+07.01.2022  14:42            22 863 diagerr.xml
+07.01.2022  14:42            22 863 diagwrn.xml
+07.12.2019  12:10            29 857 Core.xml
+07.12.2019  12:10            29 857 CoreSingleLanguage.xml
+07.12.2019  12:08            43 131 mib.bin
+10.06.2025  00:42            67 584 bootstat.dat
+13.10.2024  16:08            76 800 twain_32.dll
+13.02.2025  23:55            93 696 bfsvc.exe
+17.05.2024  00:57           164 352 splwow64.exe
+12.03.2025  01:59           200 704 notepad.exe
+07.12.2019  12:52           316 640 WMSysPr9.prx
+17.05.2024  01:00           370 176 regedit.exe
+03.05.2025  00:48           952 270 PFRO.log
+17.07.2024  21:12         1 065 984 HelpPane.exe
+15.04.2025  10:26         5 965 664 explorer.exe
+              28 File(s)      9 489 273 bytes
+               0 Dir(s)   6 813 224 960 bytes free
