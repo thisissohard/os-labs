@@ -1,0 +1,43 @@
+ cd/d D:\лабы ос\2 лаба (батники)
+ task1.bat "C:\Users\Ходор> cd/d D:\лабы ос\2 лаба (батники)" "txt"
+5
+task1.bat "D:\лабы ос\2 лаба (батники)" "txt"
+5
+task1.bat "D:\лабы ос\2 лаба (батники)" "txt"
+1
+task2.bat
+2
+3
+56
+78
+48
+349
+39
+90
+-
+ task3.bat
+56
+task3.bat "D:\лабы ос"
+л
+task3.bat "D:\лабы ос"
+ task4.bat "D:\лабы ос\vazhnaja_papka" "D:\лабы ос\2 лаба (батники)"
+vazhnaja_papka
+"D:\лабы ос\2 лаба (батники)"
+ task4.bat "D:\лабы ос" "D:\лабы ос\2 лаба (батники)"
+vazhnaja_papka
+"D:\лабы ос\2 лаба (батники)"
+task4.bat "D:\лабы ос" "D:\лабы ос\2 лаба (батники)"
+vazhnaja_papka
+"D:\лабы ос\2 лаба (батники)"
+ task4.bat "D:\лабы ос" "D:\лабы ос\2 лаба (батники)\backup"
+vazhnaja_papka
+"D:\лабы ос\2 лаба (батники)\backup"
+ task4.bat "D:\лабы ос" "D:\лабы ос\2 лаба (батники)\backup"
+D:\лабы ос\vazhnaja_papka
+D:\лабы ос\2 лаба (батники)\backup
+task5 5 10
+5
+10
+task6.bat
+task6.bat 5
+ doskey/history >> lab3_commands.txt
