@@ -1,0 +1,26 @@
+cd/d D:\лабы ос\github
+ git clone https://github.com/thisissohard/os-labs.git
+ cd/d os-labs
+ mkdir lab1
+ copy D:\лабы ос\1 лаба (командная строка) *.* D:\лабы ос\github\os-labs\lab1
+copy "D:\лабы ос\1 лаба\*.*" "D:\лабы ос\github\os-labs\lab1\"
+ copy "D:\лабы ос\1 лаба (командная строка) *.* D:\лабы ос\github\os-labs\lab1"
+ copy "D:\лабы ос\1 лаба (командная строка)*.*" "D:\лабы ос\github\os-labs\lab1"
+ cd /d "D:\лабы ос\1 лаба (командная строка)"
+ copy *.* "D:\лабы ос\github\os-labs\lab1"
+ cd/d D:\лабы ос\github\os-labs\lab1
+ git status
+ git add
+ git add .
+ git status
+ git commit -m "Добавлены файлы первой лабы"
+git config --global user.name "Ваше Имя"
+git config --global user.name "thisissohard"
+git config --global user.email "mari.poddubnaja.05@gmail.com"
+ git config --global --list
+ git commit -m "Добавлены файлы первой лабы"
+ git push origin main
+ cd/d D:\лабы ос\github\os-labs
+ mkdir lab2
+  cd/d D:\лабы ос\github\os-labs\lab2
+ doskey/history >> lab2_commands.txt
